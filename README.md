@@ -2,7 +2,7 @@
 
 Este repositório tem como objetivo estudar e explorar as melhores estratégias para a aplicação de machine learning.
 
-[Vídeo com todas as explicações Sklearn]()
+[Vídeo com todas as explicações Sklearn](https://youtu.be/UU15HLbtqp8)
 
 ## Pré-requisitos
 Não existem requisitos específicos, mas segue abaixo as versões das principais bibliotecas utilizadas:
