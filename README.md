@@ -15,7 +15,7 @@ Não existem requisitos específicos, mas segue abaixo as versões das principai
 Para replicar as execuções pode ser necessário baixar datasets. Quando for necessário estará especificado no código, com o link de onde pode ser baixado.
 
 ## Como rodar
-Todas as configurações estão no próprio código e nós respectivos vídeos!
+Todas as configurações estão no próprio código e nos respectivos vídeos!
 
 ## Autor
 * **Programador Artificial** - [GitHub](https://github.com/ProgramadorArtificial) - [YouTube](https://www.youtube.com/@ProgramadorArtificial)
