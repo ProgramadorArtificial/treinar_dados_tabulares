@@ -3,7 +3,8 @@
 Este repositório tem como objetivo estudar e explorar as melhores estratégias para a aplicação de Machine Learning e Deep Learning para dados tabulares.
 
 [Vídeo com todas as explicações Sklearn](https://youtu.be/UU15HLbtqp8)
-[Vídeo com todas as explicações Pytorch Tabular](https://youtu.be/UU15HLbtqp8)
+
+[Vídeo com todas as explicações Pytorch Tabular]()
 
 ## Pré-requisitos
 Não existem requisitos específicos, mas segue abaixo as versões das principais bibliotecas utilizadas:
