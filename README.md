@@ -1,13 +1,15 @@
-# Machine Learning
+# Treinar Dados Tabulares
 
-Este repositório tem como objetivo estudar e explorar as melhores estratégias para a aplicação de machine learning.
+Este repositório tem como objetivo estudar e explorar as melhores estratégias para a aplicação de Machine Learning e Deep Learning para dados tabulares.
 
 [Vídeo com todas as explicações Sklearn](https://youtu.be/UU15HLbtqp8)
+[Vídeo com todas as explicações Pytorch Tabular](https://youtu.be/UU15HLbtqp8)
 
 ## Pré-requisitos
 Não existem requisitos específicos, mas segue abaixo as versões das principais bibliotecas utilizadas:
 
 - Python == 3.10.13
+- Pytorch Tabular == 1.1.1
 - Pandas == 2.2.1
 - Pickle5 == 0.0.11
 - Scikit-learn == 1.4.1.post1

@@ -2,6 +2,14 @@
 *.sav
 *.pkl
 *.csv
+*.sav
+*.yml
+*.ckpt
+
+# Pytorch Folders
+.pt_tmp/
+lightning_logs/
+saved_models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
