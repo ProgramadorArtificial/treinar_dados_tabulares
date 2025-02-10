@@ -4,7 +4,7 @@ Este repositório tem como objetivo estudar e explorar as melhores estratégias 
 
 [Vídeo com todas as explicações Sklearn](https://youtu.be/UU15HLbtqp8)
 
-[Vídeo com todas as explicações Pytorch Tabular]()
+[Vídeo com todas as explicações Pytorch Tabular](https://youtu.be/LCEZwQpJsBM)
 
 ## Pré-requisitos
 Não existem requisitos específicos, mas segue abaixo as versões das principais bibliotecas utilizadas:
