@@ -5,7 +5,7 @@ Este repositório tem como objetivo estudar e explorar as melhores estratégias 
 
 [Vídeo com todas as explicações PyTorch Tabular](https://youtu.be/LCEZwQpJsBM)
 
-[Vídeo com todas as explicações treinamento personalizado Sklearn e PyTorch Tabular]()
+[Vídeo com todas as explicações treinamento personalizado Sklearn e PyTorch Tabular](https://youtu.be/SZ-LSP5_fLo)
 
 Os Notebooks que iniciam com "train_" foram adaptados para facilitar o treinamento de qualquer dataset, o qual, a saída (target) é uma classificação ou regressão. Já "create_dataset" possui o código para criar datasets com dados sintéticos, o que facilita para realizar testes e estudar os algoritmos.
 
