@@ -5,6 +5,7 @@
 *.sav
 *.yml
 *.ckpt
+*.json
 
 # Pytorch Folders
 .pt_tmp/

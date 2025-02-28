@@ -1,10 +1,15 @@
 # Treinar Dados Tabulares
-
 Este repositório tem como objetivo estudar e explorar as melhores estratégias para a aplicação de Machine Learning e Deep Learning para dados tabulares.
 
 [Vídeo com todas as explicações Sklearn](https://youtu.be/UU15HLbtqp8)
 
-[Vídeo com todas as explicações Pytorch Tabular](https://youtu.be/LCEZwQpJsBM)
+[Vídeo com todas as explicações PyTorch Tabular](https://youtu.be/LCEZwQpJsBM)
+
+[Vídeo com todas as explicações treinamento personalizado Sklearn e PyTorch Tabular]()
+
+Os Notebooks que iniciam com "train_" foram adaptados para facilitar o treinamento de qualquer dataset, o qual, a saída (target) é uma classificação ou regressão. Já "create_dataset" possui o código para criar datasets com dados sintéticos, o que facilita para realizar testes e estudar os algoritmos.
+
+Na pasta "exemplos", estão alguns Notebooks de treinamento com o logging das execuções apresentadas no terceiro vídeo, e podem ser consultados para ver o comportamento dos treinamentos.
 
 ## Pré-requisitos
 Não existem requisitos específicos, mas segue abaixo as versões das principais bibliotecas utilizadas:
