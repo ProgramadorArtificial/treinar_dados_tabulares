@@ -9,7 +9,7 @@ Este repositório tem como objetivo estudar e explorar as melhores estratégias 
 
 [4 - Vídeo com todas as explicações treinamento séries temporais](https://youtu.be/bwm06_HOrxQ) - v1.2.0
 
-[5 - Vídeo com todas as explicações testando diferentes janelas de contexto dados temporais]() - v1.3.0
+[5 - Vídeo com todas as explicações testando diferentes janelas de contexto dados temporais](https://youtu.be/5nBjAVxNoCg) - v1.3.0
 
 Os Notebooks que iniciam com "train_" foram adaptados para facilitar o treinamento de qualquer dataset, podendo ser temporal ou não, o qual, a saída (target) é uma classificação ou regressão. Já "create_dataset" possui o código para criar datasets com dados sintéticos, o que facilita para realizar testes e estudar os algoritmos.
 
